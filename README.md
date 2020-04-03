@@ -1,6 +1,6 @@
 <h1 align="center">
 <br>
-  <img src="https://orealvalor.com.br/wp-content/uploads/2018/12/transparente_70h_hq.png.webp" alt="Real Valor" width="120">
+  <img src="https://orealvalor.com.br/wp-content/uploads/2018/12/transparente_70h_hq.png.webp" alt="Real Valor" width="100%">
 <br>
 <br>
 Challenge REAL VALOR
@@ -25,10 +25,10 @@ This app features all the latest tools and practices in mobile development!
 
 ## Getting started
 
-1. Clone this repo using `git clone git@github.com:CarlosLevir/tindev.git`
-2. Move yourself to the appropriate directory: `cd tindev`<br />
+1. Clone this repo using `git clone https://github.com/humbertoromanojr/challenge-spa.git`
+2. Move yourself to the appropriate directory: `cd challenge-spa`<br />
 3. Run `yarn` to install dependencies<br />
-4. Run `lerna bootstrap` to install the packages dependecies
+4. Run `yarn start` run application
 
 
 
@@ -37,8 +37,8 @@ This app features all the latest tools and practices in mobile development!
 This project is licensed under the MIT License - see the [LICENSE](https://opensource.org/licenses/MIT) page for details.
 
 
-## Demonstração
+## Demonstration
 
 <h1 align="center">
-<img src="https://raw.githubusercontent.com/davidfaria/gympoint-frontend/master/.github/web.gif">
+  <img src="https://i.ibb.co/6XS4gHx/rv01.gif" alt="rv01" border="0">
 </h1>
