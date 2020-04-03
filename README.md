@@ -1,6 +1,6 @@
 <h1 align="center">
 <br>
-  <img src="https://orealvalor.com.br/wp-content/uploads/2018/12/transparente_70h_hq.png.webp" alt="Real Valor" width="100%" style="background-color: #334495">
+  <img src="https://orealvalor.com.br/wp-content/uploads/2018/12/transparente_70h_hq.png.webp" alt="Real Valor" width="100%" style="background: #334495">
 <br>
 <br>
 Challenge REAL VALOR
