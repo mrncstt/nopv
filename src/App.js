@@ -6,10 +6,11 @@ import { BrowserRouter, Route } from 'react-router-dom'
 import './config/ReactotronConfig';
 
 import NavBar from './components/NavBar';
+import Footer from './components/Footer';
 
 import Home from './screens/Home';
-import Bitcoins from './screens/Bitcoins';
-import DirectTreasure from './screens/DirectTreasure';
+import Contact from './screens/Contact';
+import Team from './screens/Team';
 import About from './screens/About';
  
 import './styles/app.css'
@@ -21,13 +22,14 @@ function App() {
     <Provider store={store}>
       <PersistGate persistor={persistor}>
         <BrowserRouter>
-          <NavBar className="App" title="Veja seus investimentos" />
+          {/* <NavBar className="App" title="Converse com nossos profissionais" /> */}
           <div className="content">
-            <Route path="/" exact render={() => <Home title="Bem vindo ao nosso site" />} />
-            <Route path="/bitcoins" exact render={() => <Bitcoins title="Meus Bitcoins" />} />
-            <Route path="/direct-treasure" component={DirectTreasure} />
+            <Route path="/" exact render={() => <Home title="Bem vindo a nossa plataforma" />} />
+            <Route path="/team" component={Team} />
+            <Route path="/contact" component={Contact} />
             <Route path="/about" component={About} />
           </div>
+          <Footer />
         </BrowserRouter>
       </PersistGate>
     </Provider>

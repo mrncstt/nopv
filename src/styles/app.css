@@ -6,7 +6,7 @@
 }
 
 .App {
-  background-color: rgb(134, 241, 11);
+  background-color: rgb(250, 250, 250);
   width: 100%;
   margin: 0;
   padding: 0;
@@ -14,58 +14,5 @@
 
 .content {
   background-color: #fff;
-  max-width: 992px;
   margin: 0 auto;
-}
-
-nav {
-  display: flex;
-  width: 100%;
-  align-items: center;
-  justify-content: space-between;
-  background-color: #334495;
-  padding: 10px;
-  padding-top: 20px;
-}
-
-nav img {
-  box-shadow: 1px 1px 3px #ffffff;
-  border-radius: 50%;
-}
-
-.logo-link {
-  color: #fff;
-  text-decoration: none;
-}
-
-.nav-menu li {
-  display: inline-block;
-  list-style: none;
-}
-
-.link-active {
-  display: inline-block;
-  margin: 5px;
-  border: 1px solid #996430;
-  text-decoration: none;
-  border-radius: 5px;
-  padding: 6px 16px;
-  background-color: rgb(255, 255, 255);
-  transition: all ease 0.30s;
-}
-
-.link-active:hover {
-  border: 1px solid #ffffff;
-  color: #ffffff;
-  background-color: #334495;
-  transition: all ease 0.30s;
-  cursor: pointer;
-}
-
-.link-active.activate {
-  border: 1px solid #eee;
-  background-color: #996430;
-  transition: all ease 0.30s;
-  cursor: pointer;
-  color: #fff;
 }

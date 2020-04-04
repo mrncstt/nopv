@@ -1,0 +1,58 @@
+.container-footer{
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  padding: 30px 0px 0px 0px;
+  background-color: #6760E5;
+}
+
+.container-images{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+
+  background-image: url('../../assets/images/bubbles.png');
+  background-position: right bottom;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+.container-bubbles{
+  display: flex;
+  margin: 0 auto;
+  width: 327.24px;
+  height: 100%;
+}
+
+.container-bubbles img{
+  align-self: center;
+  align-items: center;
+  justify-content: center;
+}
+
+.container-balloom{
+  display: flex;
+  flex-direction: row;
+}
+
+.container-balloom img{
+  align-self: left;
+  width: 416px;
+  height: 296px;
+}
+
+.container-help {
+  display: flex;
+  justify-content: flex-end;
+  flex-direction: column;
+  padding: 10px;
+}
+
+.container-help img{
+  padding-top: 90px;
+  height: auto;
+}
+
+.alright{
+  color: #ffffff;
+}
