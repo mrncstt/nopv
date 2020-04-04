@@ -1,6 +1,6 @@
 <h1 align="center">
 <br>
-  <img src="h" alt="Real Valor" width="100%" style="background: #334495">
+  <img src="https://i.ibb.co/q7RQFWX/logo.png" alt="logo" border="0">
 <br>
 Challenge No PV
 </h1>
@@ -30,26 +30,26 @@ This app features all the latest tools and practices in mobile development!
 
 ## Team
 
-Nick @humbertojunior
-Nome: Humberto de S. R. Júnior
-Email: astronomi@gmail.com
-LinkedIn: https://www.linkedin.com/in/junior-dev
-GitLab: https://gitlab.com/hjrdev
-
-Nick @karlasusiane
-Nome: Karla Pereira
-Email: karla.susiane@gmail.com
-LinkedIn https://www.linkedin.com/in/karla-pereira/
-
-Nick @mrncstt
-Nome: Mariana
-Email mrncstt@gmail.com
-LinkedIn https://www.linkedin.com/in/mrncstt
-
-Nick @sesiom
-Nome Moises
-Email moisesrlima@gmail.com
-LinkedIn https://www.linkedin.com/in/moisesrlimadesigndf
+Nick @humbertojunior <br />
+Nome: Humberto de S. R. Júnior <br />
+Email: astronomi@gmail.com <br />
+LinkedIn: https://www.linkedin.com/in/junior-dev <br />
+GitLab: https://gitlab.com/hjrdev <br />
+ <br /> <br />
+Nick @karlasusiane <br />
+Nome: Karla Pereira <br />
+Email: karla.susiane@gmail.com <br />
+LinkedIn https://www.linkedin.com/in/karla-pereira/ <br />
+ <br /> <br />
+Nick @mrncstt <br />
+Nome: Mariana <br />
+Email mrncstt@gmail.com <br />
+LinkedIn https://www.linkedin.com/in/mrncstt <br />
+ <br /> <br />
+Nick @sesiom <br />
+Nome Moises <br />
+Email moisesrlima@gmail. <br />
+LinkedIn https://www.linkedin.com/in/moisesrlimadesigndf <br />
 
 
 ## License
@@ -60,5 +60,5 @@ This project is licensed under the MIT License - see the [LICENSE](https://opens
 ## Demonstration
 
 <h1 align="center">
-  <img src="https://i.ibb.co/6XS4gHx/rv01.gif" alt="rv01" border="0">
+  <img src="https://i.ibb.co/mhs2z5k/noPV.png" alt="noPV" border="0">
 </h1>
