@@ -1,9 +1,8 @@
 <h1 align="center">
 <br>
-  <img src="https://orealvalor.com.br/wp-content/uploads/2018/12/transparente_70h_hq.png.webp" alt="Real Valor" width="100%" style="background: #334495">
+  <img src="h" alt="Real Valor" width="100%" style="background: #334495">
 <br>
-<br>
-Challenge REAL VALOR
+Challenge No PV
 </h1>
 
 ## Features
@@ -22,14 +21,35 @@ This app features all the latest tools and practices in mobile development!
 -   [date-fns](https://date-fns.org/)
 -   [apexcharts](https://apexcharts.com/)
 
-
 ## Getting started
 
-1. Clone this repo using `git clone https://github.com/humbertoromanojr/challenge-spa.git`
-2. Move yourself to the appropriate directory: `cd challenge-spa`<br />
+1. Clone this repo using `git clone https://github.com/humbertoromanojr/nopv.git`
+2. Move yourself to the appropriate directory: `cd nopv`<br />
 3. Run `yarn` to install dependencies<br />
 4. Run `yarn start` run application
 
+## Team
+
+Nick @humbertojunior
+Nome: Humberto de S. R. Júnior
+Email: astronomi@gmail.com
+LinkedIn: https://www.linkedin.com/in/junior-dev
+GitLab: https://gitlab.com/hjrdev
+
+Nick @karlasusiane
+Nome: Karla Pereira
+Email: karla.susiane@gmail.com
+LinkedIn https://www.linkedin.com/in/karla-pereira/
+
+Nick @mrncstt
+Nome: Mariana
+Email mrncstt@gmail.com
+LinkedIn https://www.linkedin.com/in/mrncstt
+
+Nick @sesiom
+Nome Moises
+Email moisesrlima@gmail.com
+LinkedIn https://www.linkedin.com/in/moisesrlimadesigndf
 
 
 ## License
