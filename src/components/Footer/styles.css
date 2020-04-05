@@ -55,6 +55,8 @@
 
 .alright{
   color: #ffffff;
-  text-size-adjust: 12px;
   text-transform: uppercase;
+  text-align: right;
+  padding: 10px;
+  background-color: #6760E5;
 }

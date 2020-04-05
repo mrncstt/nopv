@@ -18,9 +18,12 @@ export default function Footer(props) {
           </div>
           <div className="container-help">
             <img src={helpme} className="image-help" alt="image bubbles" />
-            <label className="alright">&copy; 2020 direitos reservados NoPV</label>
           </div>
         </div>
+        <div>
+          <p className="alright">&copy; 2020 direitos reservados NoPV</p>
+        </div>
+
       
     </div>
       
