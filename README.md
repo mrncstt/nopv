@@ -1,7 +1,8 @@
 <h1 align="center">
-<br>
+<br />
   <img src="https://i.ibb.co/q7RQFWX/logo.png" alt="logo" border="0">
-<br>
+<br />
+<br />
 Challenge No PV
 </h1>
 
@@ -30,23 +31,19 @@ This app features all the latest tools and practices in mobile development!
 
 ## Team
 
-Nick @humbertojunior <br />
 Nome: Humberto de S. R. Júnior <br />
 Email: astronomi@gmail.com <br />
 LinkedIn: https://www.linkedin.com/in/junior-dev <br />
 GitLab: https://gitlab.com/hjrdev <br />
  <br /> <br />
-Nick @karlasusiane <br />
 Nome: Karla Pereira <br />
 Email: karla.susiane@gmail.com <br />
 LinkedIn https://www.linkedin.com/in/karla-pereira/ <br />
  <br /> <br />
-Nick @mrncstt <br />
 Nome: Mariana <br />
 Email mrncstt@gmail.com <br />
 LinkedIn https://www.linkedin.com/in/mrncstt <br />
  <br /> <br />
-Nick @sesiom <br />
 Nome Moises <br />
 Email moisesrlima@gmail. <br />
 LinkedIn https://www.linkedin.com/in/moisesrlimadesigndf <br />
@@ -60,5 +57,5 @@ This project is licensed under the MIT License - see the [LICENSE](https://opens
 ## Demonstration
 
 <h1 align="center">
-  <img src="https://i.ibb.co/mhs2z5k/noPV.png" alt="noPV" border="0">
+  <img src="https://i.ibb.co/v1RNdC8/NoPV.png" alt="NoPV" border="0">
 </h1>

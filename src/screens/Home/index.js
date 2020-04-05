@@ -1,12 +1,10 @@
 import React from 'react';
-import { Link, NavLink } from 'react-router-dom';
+import { Link } from 'react-router-dom';
 
-import Footer from '../../components/Footer';
+import Header from '../../components/NavBar';
 
 import mobile from '../../assets/images/mobile.png';
 import elevation from '../../assets/images/elevation.png'
-
-import logo from '../../assets/images/logo.png';
 
 import './styles.css'
 
@@ -14,17 +12,7 @@ export default function Home(props) {
 
   return (
     <div className="main-content">
-       <nav>
-        <h2 className="container-logo">
-          <a href="/"><img src={logo} className="image-logo" alt="Logo No PV" title="Logo No PV" /></a>
-        </h2>
-        <ul className="nav-menu">
-          <li><NavLink className="link-active" activeClassName="activate" exact to="/">Home</NavLink></li>
-          <li><NavLink className="link-active" activeClassName="activate" to="/about">Sobre</NavLink></li>
-          <li><NavLink className="link-active" activeClassName="activate" to="/team">Time</NavLink></li>
-          <li><NavLink className="link-active" activeClassName="activate" to="/contact">Contato</NavLink></li>
-        </ul>
-      </nav>
+      <Header />
       <div className="container">
      
         <div className="container-text">

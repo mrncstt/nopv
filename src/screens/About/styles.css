@@ -60,7 +60,6 @@
   transition: all 0.3s ease-in-out;
 }
 
-
 .button:hover {
   border: 1px solid #6760E5;
   background-color: #ffffff;
@@ -69,3 +68,13 @@
   transition: all 0.3s ease-in-out;
 }
 
+.container-elevation{
+  display: flex;
+  width: 100%;
+  margin-top: 5px; 
+  background-color: transparent;
+}
+
+.container-elevation img{
+  width: 100%;
+}

@@ -18,7 +18,6 @@ nav {
   justify-content: space-between;
   padding: 10px;
   margin-right: 10px;
-  padding-top: 20px;
 }
 
 
@@ -35,22 +34,22 @@ nav {
 
 .link-active {
   display: inline-block;
-  padding: 15px;
+  padding: 5px 20px 5px 20px;
   color: #6760E5;
   text-decoration: none;
-  background-color: rgb(255, 255, 255);
+  background-color: #e2daff;
   transition: all ease 0.30s;
 }
 
 .link-active:hover {
   color: #ffffff;
-  color: #334495;
-  transition: all ease 0.30s;
   cursor: pointer;
+  transition: all ease 1s;
 }
 
 .link-active.activate {
   transition: all ease 0.30s;
   cursor: pointer;
-  color: rgb(20, 19, 19);
+  border-bottom: 3px solid #334495;
+  transition: all ease 0.30s;
 }

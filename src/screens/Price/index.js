@@ -3,13 +3,13 @@ import { Link } from 'react-router-dom';
 
 import '../../styles/styles.css'
 
-export default function Team(props) {
+export default function Price(props) {
 
   return (
     <div className="main-content">
       
       <div className="container">
-        Team screen
+        Price screen
       </div>
             
     </div>

@@ -5,13 +5,14 @@ import { BrowserRouter, Route } from 'react-router-dom'
 
 import './config/ReactotronConfig';
 
-import NavBar from './components/NavBar';
 import Footer from './components/Footer';
 
 import Home from './screens/Home';
 import Contact from './screens/Contact';
-import Team from './screens/Team';
+import Faq from './screens/Faq';
 import About from './screens/About';
+import Price from './screens/Price';
+import History from './screens/History';
  
 import './styles/app.css'
 
@@ -22,12 +23,13 @@ function App() {
     <Provider store={store}>
       <PersistGate persistor={persistor}>
         <BrowserRouter>
-          {/* <NavBar className="App" title="Converse com nossos profissionais" /> */}
           <div className="content">
             <Route path="/" exact render={() => <Home title="Bem vindo a nossa plataforma" />} />
-            <Route path="/team" component={Team} />
+            <Route path="/faq" component={Faq} />
             <Route path="/contact" component={Contact} />
             <Route path="/about" component={About} />
+            <Route path="/price" component={Price} />
+            <Route path="/history" component={History} />
           </div>
           <Footer />
         </BrowserRouter>
