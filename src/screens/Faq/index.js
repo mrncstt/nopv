@@ -15,7 +15,7 @@ export default function Faq(props) {
       <div className="container">
      
         <div className="container-text">
-          <h2 className="title">Faq</h2>
+          <label className="title">Faq</label>
           <p className="center">
           Bem vindo ao nosso FAQ ele ainda está sendo construído, por tanto nos ajude deixando a sua dúvida, utilizaremos estatísticas para deixar sempre assuntos relevantes e de utilidade aqui. 
           <br />

@@ -17,7 +17,7 @@ export default function History(props) {
       <div className="container">
      
         <div className="container-text">
-          <h2 className="title">História</h2>
+          <label className="title">História</label>
           <p className="center">
           Seja para encontrar profissionais de confiança que atendam remotamente ou para agendar aquele atendimento, é só conversar com o nosso chatbot via Whatsapp que ele resolve para você.
           <br />

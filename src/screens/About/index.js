@@ -16,7 +16,7 @@ export default function About(props) {
       <div className="container">
      
         <div className="container-text">
-          <h2 className="title">Sobre</h2>
+          <label className="title">Sobre</label>
           <p className="center">
           Seja para encontrar profissionais de confiança que atendam remotamente ou para agendar aquele atendimento, é só conversar com o nosso chatbot via Whatsapp que ele resolve para você.
           </p>
