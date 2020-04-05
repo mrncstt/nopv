@@ -46,6 +46,12 @@ LinkedIn https://www.linkedin.com/in/mrncstt <br />
  <img src="https://media-exp1.licdn.com/dms/image/C4E03AQHtgBRmas6qzw/profile-displayphoto-shrink_200_200/0?e=1591833600&v=beta&t=X3q-XhLsTXq4WJ_rO8C5mLmS9j9SgjOQBdsKQdkRLWs" width="30"> Moises <br />
 Email moisesrlima@gmail. <br />
 LinkedIn https://www.linkedin.com/in/moisesrlimadesigndf <br />
+<br /><br />
+<img src="https://avatars1.githubusercontent.com/u/49542219?s=460&u=8a7fe9b47ca6b09374232e8cace190db15ae4a4c&v=4" width="30"> Sandro S Romaniuc <br />
+Email: sandro@marknoalvo.com.br <br />
+Linkedin: https://www.linkedin.com/in/sandrosalvadeoromaniuc <br />
+GitHub: https://github.com/SandroRomaniuc <br />
+site: http://marknoalvo.com.br <br />
 
 
 ## License

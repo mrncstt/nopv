@@ -104,3 +104,21 @@
   z-index: 99;
   padding-top: 20px;
 }
+
+/* about */
+
+.aboutNoPv {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: row;
+  padding: 10px 20px 10px 20px;
+}
+
+.aboutNoPv img{
+  width: 310px;
+  height: 450px;
+  margin-left: 20px;
+  border-radius: 16px;
+  border: 1px solid #6760E5;
+}
