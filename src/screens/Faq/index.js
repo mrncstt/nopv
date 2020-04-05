@@ -4,8 +4,7 @@ import { Link } from 'react-router-dom';
 import Header from '../../components/NavBar';
 
 import elevation from '../../assets/images/elevation.png'
-
-import '../../styles/styles.css'
+import button from '../../assets/images/button.png';
 
 export default function Faq(props) {
 
@@ -16,10 +15,17 @@ export default function Faq(props) {
       <div className="container">
      
         <div className="container-text">
-          <h2 className="title">Sobre</h2>
-          <p className="description">
-          Seja para encontrar profissionais de confiança que atendam remotamente ou para agendar aquele atendimento, é só conversar com o nosso chatbot via Whatsapp que ele resolve para você.
+          <h2 className="title">Faq</h2>
+          <p className="center">
+          Bem vindo ao nosso FAQ ele ainda está sendo construído, por tanto nos ajude deixando a sua dúvida, utilizaremos estatísticas para deixar sempre assuntos relevantes e de utilidade aqui. 
+          <br />
+          Obrigado.
+          <br />
+          <br />
+          Clique no botão abaixo para ler nosso faq.
           </p>
+
+          <img src={button} className="buttonRead" /> 
           
         </div>
         

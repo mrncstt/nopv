@@ -30,7 +30,6 @@
 
 .container-text p {
   color: #999999;
-  text-align: left;
 }
 
 .container-text h2{
@@ -44,6 +43,12 @@
 
 .description{
   padding: 0px 90px 0px 90px;
+  text-align: left;
+}
+
+.center{
+  padding: 0px 90px 0px 90px;
+  text-align: center;
 }
 
 .container-mobile{
@@ -62,8 +67,6 @@
 .container-elevation{
   display: flex;
   width: 100%;
-  margin-top: 5px; 
-  background-color: transparent;
 }
 
 .container-elevation img{
@@ -97,3 +100,7 @@
   transition: all 0.3s ease-in-out;
 }
 
+.buttonRead{
+  z-index: 99;
+  padding-top: 20px;
+}
