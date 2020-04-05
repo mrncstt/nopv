@@ -30,13 +30,12 @@ This app features all the latest tools and practices in mobile development!
 4. Run `yarn start` run application
 
 ## Team
-<img src="https://avatars1.githubusercontent.com/u/6500430?s=460&u=42d7e22fa1c77b061505fe1cfc3fcaa3e2a4d1e5&v=4" style="width: 50px; height: 50px; border-radius: 25px">
- Humberto de S. R. Júnior <br />
+<img src="https://avatars1.githubusercontent.com/u/6500430?s=460&u=42d7e22fa1c77b061505fe1cfc3fcaa3e2a4d1e5&v=4" width="70" alt="linkedin.com/in/junior-dev"> Humberto de S. R. Júnior <br />
 Email: astronomi@gmail.com <br />
 LinkedIn: https://www.linkedin.com/in/junior-dev <br />
 GitLab: https://gitlab.com/hjrdev <br />
  <br /> <br />
-Nome: Karla Pereira <br />
+ <img src="https://media-exp1.licdn.com/dms/image/C4E03AQHZmKqCn_o-4w/profile-displayphoto-shrink_200_200/0?e=1591833600&v=beta&t=wO5DcQJpk1ht4XdGeHGj3R_oiQGPPz94ThZctPwmHRM" width="70"> Karla Pereira <br />
 Email: karla.susiane@gmail.com <br />
 LinkedIn https://www.linkedin.com/in/karla-pereira/ <br />
  <br /> <br />
