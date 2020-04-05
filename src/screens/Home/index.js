@@ -6,8 +6,6 @@ import Header from '../../components/NavBar';
 import mobile from '../../assets/images/mobile.png';
 import elevation from '../../assets/images/elevation.png'
 
-import './styles.css'
-
 export default function Home(props) {
 
   return (

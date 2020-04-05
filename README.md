@@ -3,7 +3,7 @@
   <img src="https://i.ibb.co/q7RQFWX/logo.png" alt="logo" border="0">
 <br />
 <br />
-Challenge No PV
+
 </h1>
 
 ## Features
@@ -30,8 +30,8 @@ This app features all the latest tools and practices in mobile development!
 4. Run `yarn start` run application
 
 ## Team
-
-Nome: Humberto de S. R. Júnior <br />
+<img src="https://avatars1.githubusercontent.com/u/6500430?s=460&u=42d7e22fa1c77b061505fe1cfc3fcaa3e2a4d1e5&v=4" style="width: 50px; height: 50px; border-radius: 25px">
+ Humberto de S. R. Júnior <br />
 Email: astronomi@gmail.com <br />
 LinkedIn: https://www.linkedin.com/in/junior-dev <br />
 GitLab: https://gitlab.com/hjrdev <br />

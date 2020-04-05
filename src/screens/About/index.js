@@ -5,8 +5,6 @@ import Header from '../../components/NavBar';
 
 import elevation from '../../assets/images/elevation.png'
 
-import './styles.css'
-
 export default function About(props) {
 
   return (

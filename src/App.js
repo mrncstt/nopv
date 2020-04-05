@@ -15,6 +15,7 @@ import Price from './screens/Price';
 import History from './screens/History';
  
 import './styles/app.css'
+import './styles/styles.css'
 
 import { store, persistor } from './store';
 
